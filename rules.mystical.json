@@ -4,7 +4,8 @@
 		"authors": [
 			"Mystical"
 		],
-		"title": "Mystical rules list"
+		"title": "Mystical rules list",
+		"update_url": "https://github.com/BIOS9/Bot_Detector_Rules/blob/master/rules.mystical.json"
 	},
 	"rules": [
 		{

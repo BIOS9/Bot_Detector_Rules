@@ -5,7 +5,7 @@
 			"Mystical"
 		],
 		"title": "Mystical rules list",
-		"update_url": "https://github.com/BIOS9/Bot_Detector_Rules/blob/master/rules.mystical.json"
+		"update_url": "https://raw.githubusercontent.com/BIOS9/Bot_Detector_Rules/master/rules.mystical.json"
 	},
 	"rules": [
 		{

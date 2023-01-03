@@ -41,6 +41,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "DoesHotter",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"DoesHotter"
+					]
+				}
+			}
 		}
 	]
 }
